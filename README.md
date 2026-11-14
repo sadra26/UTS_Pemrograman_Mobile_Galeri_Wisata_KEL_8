@@ -14,7 +14,6 @@ Galeri Wisata adalah aplikasi katalog destinasi wisata sederhana yang dibuat den
 - **Halaman detail** — menerima data destinasi lewat constructor (nama, lokasi, kategori, harga tiket, deskripsi)
 - **Navigasi** — Named Routes (`/`, `/profil`, `/tentang`), `Drawer`, dan `BottomNavigationBar` (Home & Profil)
 - **Model data** `Destinasi` dengan format harga rupiah (`Rp 35.000` / `Gratis`)
-- **Fallback gambar** — jika gambar asset tidak ditemukan, otomatis diganti ikon
 
 ## Anggota & Jobdesk
 
