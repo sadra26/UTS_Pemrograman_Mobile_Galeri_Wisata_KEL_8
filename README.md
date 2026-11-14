@@ -45,8 +45,7 @@ Pastikan tidak ada error pada bagian Flutter dan toolchain yang akan dipakai.
 
 ```bash
 git clone https://github.com/sadra26/UTS_Pemrograman_Mobile_Galeri_Wisata_KEL_8.git
-cd UTS_PEMMOGRAMAN_MOBILE
-cd app
+cd UTS_Pemrograman_Mobile_Galeri_Wisata_KEL_8
 ```
 
 ### 3. Pastikan Asset Gambar Terdaftar
