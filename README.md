@@ -49,8 +49,6 @@ cd UTS_PEMMOGRAMAN_MOBILE
 cd app
 ```
 
-> Ganti `<URL_REPOSITORY_KELOMPOK>` dengan link repository kelompok.
-
 ### 3. Pastikan Asset Gambar Terdaftar
 
 Gambar destinasi dibaca dari `assets/images/`. Pastikan folder tersebut berisi file berikut:
@@ -102,5 +100,3 @@ Saat aplikasi berjalan, tekan `r` untuk *hot reload* dan `R` untuk *hot restart*
 | Build error aneh | `flutter clean` lalu `flutter pub get` dan jalankan ulang |
 
 ---
-
-*Dibuat untuk keperluan Mini-Proyek PJBL-1 — Pemrograman Mobile (INF23531).*
