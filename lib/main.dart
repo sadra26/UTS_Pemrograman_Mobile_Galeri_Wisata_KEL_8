@@ -19,7 +19,7 @@ class Destinasi {
   final String gambar;
   final String lokasi;
   final String kategori;
-  final int harga; // harga tiket (Rp)
+  final int harga; 
   final String deskripsi;
   final IconData ikon;
 
