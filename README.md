@@ -21,7 +21,7 @@ Galeri Wisata adalah aplikasi katalog destinasi wisata sederhana yang dibuat den
 |------|-----|---------|
 | Hanif Maulana Akrama | 241080200049 | Ketua / Koordinator |
 | Al-Zastrouw Mulla Sadra | 241080200052 | Data & Model |
-| Noval Bagas Irianto | 241080200024 | UI Developer |
+| Noval Bagas Irianto | 241080200024 | ListTile & Gridview
 | Ryan Danauarta | 231080200110 | Dokumentasi & Laporan |
 
 ## Cara Menjalankan di Device Lokal
